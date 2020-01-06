@@ -1,5 +1,5 @@
 # Maltern Malware Detector Script
-Maltern is basicly malware detector script.
+Maltern is basically malware detector script.
 
 # Requirements
 Python 3.x
