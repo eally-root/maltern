@@ -1,10 +1,10 @@
 # MalTerN Malware Detector Script
 MalTerN is basicly malware detector script.
 
-#Requirements
+# Requirements
 Python 3.x
 
-#How to use?
+# How to use?
 Just start maltern.py and type path of which file you want.
 
 # Creator Signature
